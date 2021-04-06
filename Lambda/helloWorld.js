@@ -1,3 +1,3 @@
 exports.handler =  (event, context, callback) => {
-    return callback(null, { statusCode: 200, body: "Hellow Mundo 2021"});
+    return callback(null, { statusCode: 200, body: "Hola Mundo 2021"});
 };
